@@ -1,0 +1,8 @@
+.form-group{width: 50%;
+    margin: 15px auto;}
+    #form{text-align: center;}
+
+    .list{    list-style-type: none;
+        text-align: center;
+        margin-top: 14px;
+        color: red;}
